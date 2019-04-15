@@ -1,4 +1,4 @@
 # JooVox - Watch Indian Live TV & Movies For Free
 Android App To Watch Indian Live TV &amp; Movies
 1. Direct Download:- https://github.com/jagmdt/JooVox/raw/master/com.joovox.jvx.apk
-2. Play Store link:- Coming Soon :)
+2. Play Store link:- https://play.google.com/store/apps/details?id=com.joovox.jvx
